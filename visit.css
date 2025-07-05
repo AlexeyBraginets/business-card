@@ -1,0 +1,86 @@
+body{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background: rgb(195, 241, 241);
+}
+
+
+.block{
+    color: rgb(56, 48, 48);
+    margin-top: 100px;
+   position: relative;
+   right: -540px;
+    background: white;
+    border-radius: 40px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    height: 300px;
+    width: 450px;
+    max-width: 450px;
+    max-height: 300px;
+    min-width: 450px;
+    min-height: 300px;
+    /* padding: 30px; */
+    /* max-width: 1000px; */
+    text-align: center;
+}
+
+#p1{
+    white-space: nowrap;
+    position: relative;
+    bottom: -150px;
+   right: -187px;
+    
+}
+
+#p2{
+    white-space: nowrap;
+    position: relative;
+    left: -65px;
+    bottom: -180px;
+}
+
+#p3{
+    white-space: nowrap;
+    position: relative;
+    left: -265px;
+    bottom: -200px;
+
+}
+
+#p4{
+    white-space: nowrap;
+    position: relative;
+    left: -440px;
+    bottom: -235px;   
+}
+
+.pClass{
+    cursor: pointer;
+    color: rgb(87, 79, 79);
+}
+
+#links{
+    word-spacing: 8px;
+    white-space: nowrap;
+}
+
+.link{
+    padding: 5px;
+    border: 1px solid rgb(33, 175, 175);
+    border-radius: 20px;
+    color: rgb(33, 175, 175);
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: -674px;
+    bottom: -300px;
+    transition: all 0.3s ease;
+}
+
+.link:hover{
+    color: white;
+    background: rgb(33, 175, 175);
+}
+
+
