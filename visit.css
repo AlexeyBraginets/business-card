@@ -10,7 +10,7 @@ body{
     color: rgb(56, 48, 48);
     margin-top: 100px;
    position: relative;
-   right: -540px;
+   right: -595px;
     background: white;
     border-radius: 40px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -29,21 +29,21 @@ body{
     white-space: nowrap;
     position: relative;
     bottom: -150px;
-   right: -187px;
+   right: -242px;
     
 }
 
 #p2{
     white-space: nowrap;
     position: relative;
-    left: -65px;
+    left: -37px;
     bottom: -180px;
 }
 
 #p3{
     white-space: nowrap;
     position: relative;
-    left: -265px;
+    left: -267px;
     bottom: -200px;
 
 }
@@ -51,7 +51,7 @@ body{
 #p4{
     white-space: nowrap;
     position: relative;
-    left: -440px;
+    left: -445px;
     bottom: -235px;   
 }
 
@@ -73,7 +73,7 @@ body{
     font-size: 20px;
     text-decoration: none;
     position: relative;
-    left: -674px;
+    left: -685px;
     bottom: -300px;
     transition: all 0.3s ease;
 }
